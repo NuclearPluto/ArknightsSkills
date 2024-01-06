@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>Test Mod - FirewatchS2</name>
+    <author>NuclearPluto</author>
+    <packageId>NuclearPluto.FirewatchS2</packageId>
+    <supportedVersions>
+        <li>1.4</li>
+    </supportedVersions>
+    <description>This mod adds Firewatch Skill 2, yada yada. \n\nFor version 1.4 supposedly.</description>
+</ModMetaData>
